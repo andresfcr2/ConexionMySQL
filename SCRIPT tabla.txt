@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS colegio;
+
+USE colegio;
+
+CREATE TABLE IF NOT EXISTS usuario (
+    nombre VARCHAR(100) NOT NULL,
+    nota DECIMAL(5,2) NOT NULL,
+    PRIMARY KEY (nombre)
+);
