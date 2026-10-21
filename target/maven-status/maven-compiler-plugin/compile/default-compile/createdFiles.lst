@@ -2,6 +2,7 @@ andres\interfazgrafica\Usuario.class
 DAO\UsuarioDAO.class
 IGU\IG$3.class
 IGU\IG$2.class
+andres\interfazgrafica\API\UsuarioController.class
 IGU\IG.class
 Database\Conexion.class
 IGU\IG$6.class
